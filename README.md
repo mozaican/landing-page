@@ -2,6 +2,7 @@
 
 Odin Project: Landing Page - an entire web page created using Flexbox 
 
+https://mozaican.github.io/landing-page/
 
 Photo credits:
 1. Four Orca whales from the CA51 pod by Mike Doherty (source: Unsplash)
